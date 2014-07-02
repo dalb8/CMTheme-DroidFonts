@@ -1,0 +1,5 @@
+CyanogenMod-type theme containing Droid Sans and Droid Mono.
+
+Droid Sans is renamed to fool the symlink; Droid Serif isn't
+included as that's the default Serif font anyway.
+
